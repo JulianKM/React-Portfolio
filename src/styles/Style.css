@@ -1,0 +1,128 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+}
+
+.Navbar {
+    display:flex;
+    background-color: #006D77;
+    justify-content: right;
+    text-decoration: none;
+    padding: 1vh;
+}   
+
+.footer{
+    background-color: #006D77;
+    display:flex;
+    justify-content: center;
+    margin-bottom: -10px;
+    height: 4vh;
+}
+
+.NavbarLink{
+    color: white;
+    padding: 10px;
+    font-weight: bolder;
+    float: right;
+}
+
+/* .NavbarLinkAly{
+    color: white;
+    padding: 10px;
+    font-weight: bolder;
+    float: left !important;
+} */
+    
+.footerimg{
+    height: 30px;
+}
+
+.NavbarLink:hover {
+    background-color: #87B37A;
+    color: Black;
+  }
+
+.body{
+    background-color: #DCABDF;
+    height: 98vh;
+}
+.mainBody {
+    margin:auto;
+    width:80%;
+    background:whitesmoke;
+    height: 99vh;
+    text-align: center;
+}
+
+.bold{
+    padding-top: 3%;
+    padding-left: 1%;
+    font-weight: bolder;
+}
+
+.bolder{
+    font-weight: bolder;
+}
+
+.profilePic{
+    padding-top: 1%;
+    padding-left: 1%;
+    height: auto;
+    width: 40%;
+
+}
+
+.title{
+    text-decoration: underline
+}
+
+.flex{
+    display: flex;
+}
+
+.flexME{
+    display: flex;
+    flex-direction: column;
+    max-width: 30vw;
+    margin-top: 3%;
+    border: 3px solid #87B37A;
+    margin-left: 31%;
+    padding: 2px;
+}
+
+.flexME2{
+    display: flex;
+    max-width: 50vw;
+    margin-top: 3%;
+    margin-left: 25%;
+    padding: 2px;
+}
+
+
+.projectPicture{
+    padding-top: 1%;
+    padding-left: 1%;
+    height: auto;
+    width: 50%;
+}
+
+.projectBox{
+    font-weight: bolder;
+    padding-top: 2%;
+}
+
+.resume{
+    margin: 2%;
+    text-decoration: underline;
+    color: blue;
+}
+
+/* Pale Purple: E0D3DE
+Gamboge: F1A208
+Carribean Current: 006D77
+Olivine: 87B37A
+Purpureus: A846A0
+Dim Gray: 6F686D */
