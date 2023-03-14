@@ -8,14 +8,14 @@
 
 .Navbar {
     display:flex;
-    background-color: #006D77;
+    background-color: orange;
     justify-content: right;
     text-decoration: none;
     padding: 1vh;
 }   
 
 .footer{
-    background-color: #006D77;
+    background-color: orange;
     display:flex;
     justify-content: center;
     margin-bottom: -10px;
@@ -28,31 +28,24 @@
     font-weight: bolder;
     float: right;
 }
-
-/* .NavbarLinkAly{
-    color: white;
-    padding: 10px;
-    font-weight: bolder;
-    float: left !important;
-} */
     
 .footerimg{
     height: 30px;
 }
 
 .NavbarLink:hover {
-    background-color: #87B37A;
+    background-color: palegoldenrod;
     color: Black;
   }
 
 .body{
-    background-color: #DCABDF;
+    background-color: white;
     height: 98vh;
 }
 .mainBody {
     margin:auto;
     width:80%;
-    background:whitesmoke;
+    background:white;
     height: 99vh;
     text-align: center;
 }
@@ -88,7 +81,7 @@
     flex-direction: column;
     max-width: 30vw;
     margin-top: 3%;
-    border: 3px solid #87B37A;
+    border: 3px solid palegoldenrod;
     margin-left: 31%;
     padding: 2px;
 }
@@ -119,10 +112,3 @@
     text-decoration: underline;
     color: blue;
 }
-
-/* Pale Purple: E0D3DE
-Gamboge: F1A208
-Carribean Current: 006D77
-Olivine: 87B37A
-Purpureus: A846A0
-Dim Gray: 6F686D */
