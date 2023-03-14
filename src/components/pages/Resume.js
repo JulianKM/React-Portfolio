@@ -5,7 +5,7 @@ const resumeLink="https://docs.google.com/document/d/1nG_xtSaUcnmUuAGVV9h73M8A1G
 
 export default function Resume() {
     return (
-      <div style={styles.container}>
+      <div>
         <h1>Resume</h1>
         <br></br>
         <ul>
