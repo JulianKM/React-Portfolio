@@ -1,11 +1,10 @@
-// import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import About from "./components/pages/About"
-import Portfolio from "./components/pages/Portfolio"
-import Contact from "./components/pages/Contact"
-import Resume from "./components/pages/Resume"
-import Navbar from "./components/pages/Navbar"
-import Footer from './components/pages/Footer';
+import About from "./components/pages/about"
+import Portfolio from "./components/pages/portfolio"
+import Contact from "./components/pages/contact"
+import Resume from "./components/pages/resume"
+import Navbar from "./components/pages/navbar"
+import Footer from './components/pages/footer';
 
 function App() {  
   return (

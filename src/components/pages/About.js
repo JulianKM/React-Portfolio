@@ -5,7 +5,7 @@ import '../../styles/Style.css';
 export default function About() {
     return (
         <div className='mainBody'>
-        <h1 className="title">About Me</h1>
+        <h1 className="title">About Me - Julian Mason</h1>
         <div className="flex flexME2">
         <div> 
         <br></br>
