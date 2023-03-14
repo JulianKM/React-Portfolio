@@ -1,7 +1,7 @@
 import React from "react";
 import '../../styles/Style.css';
 import Project from '../project';
-import Movie from '../../styles/MovieProject.png';
+import Movie from '../../styles/cinema-sips.png';
 
 export default function Portfolio() {
     return (
