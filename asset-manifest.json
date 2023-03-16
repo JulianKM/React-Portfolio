@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.165bd98b.css",
-    "main.js": "/React-Portfolio/static/js/main.8a2e194a.js",
+    "main.js": "/React-Portfolio/static/js/main.fff7c2f0.js",
     "static/media/cinema-sips.png": "/React-Portfolio/static/media/cinema-sips.f611734339e691809100.png",
     "index.html": "/React-Portfolio/index.html",
     "main.165bd98b.css.map": "/React-Portfolio/static/css/main.165bd98b.css.map",
-    "main.8a2e194a.js.map": "/React-Portfolio/static/js/main.8a2e194a.js.map"
+    "main.fff7c2f0.js.map": "/React-Portfolio/static/js/main.fff7c2f0.js.map"
   },
   "entrypoints": [
     "static/css/main.165bd98b.css",
-    "static/js/main.8a2e194a.js"
+    "static/js/main.fff7c2f0.js"
   ]
 }
